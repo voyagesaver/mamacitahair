@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Questrial:400&display=swap);
+@import url(https://fonts.googleapis.com/css?family=Poppins:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&display=swap);
 
 
 
@@ -11,7 +11,7 @@ body {
   font-family: DM Sans;
 }
 .display-1 {
-  font-family: 'Questrial', sans-serif;
+  font-family: 'Poppins', sans-serif;
   font-size: 4.5rem;
   line-height: 86px;
 }
@@ -19,7 +19,7 @@ body {
   font-size: 7.2rem;
 }
 .display-2 {
-  font-family: 'Questrial', sans-serif;
+  font-family: 'Poppins', sans-serif;
   font-size: 3.625rem;
   line-height: 70px;
 }
@@ -27,7 +27,7 @@ body {
   font-size: 5.8rem;
 }
 .display-4 {
-  font-family: 'Questrial', sans-serif;
+  font-family: 'Poppins', sans-serif;
   font-weight: 400;
   font-size: 0.8rem;
   line-height: 26px;
@@ -36,7 +36,7 @@ body {
   font-size: 0.8rem;
 }
 .display-5 {
-  font-family: 'Questrial', sans-serif;
+  font-family: 'Poppins', sans-serif;
   font-size: 2rem;
   line-height: 52px;
 }
@@ -44,7 +44,7 @@ body {
   font-size: 3.2rem;
 }
 .display-7 {
-  font-family: 'Questrial', sans-serif;
+  font-family: 'Poppins', sans-serif;
   font-size: 1.25rem;
   line-height: 32px;
 }
@@ -628,7 +628,7 @@ a:hover {
   display: none;
 }
 .form-control {
-  font-family: 'Questrial', sans-serif;
+  font-family: 'Poppins', sans-serif;
   font-size: 1.25rem;
   line-height: 32px;
 }
@@ -1103,7 +1103,7 @@ blockquote {
   padding-left: 2rem;
 }
 .cid-s1XdwJI9vB .mbr-text-right {
-  color: #202020;
+  color: #606060;
 }
 .cid-s1XdwJI9vB .article-counter-left {
   color: #cccccc;
@@ -1113,6 +1113,9 @@ blockquote {
 }
 .cid-s1XdwJI9vB H2 {
   color: #482be7;
+}
+.cid-s1XdwJI9vB .mbr-text-left {
+  color: #606060;
 }
 .cid-s1XfmmDjc9 {
   padding-top: 0px;
@@ -1131,10 +1134,10 @@ blockquote {
   padding-left: 2rem;
 }
 .cid-s1XfmmDjc9 .mbr-text-right {
-  color: #202020;
+  color: #606060;
 }
 .cid-s1XfmmDjc9 .mbr-text-left {
-  color: #202020;
+  color: #606060;
 }
 .cid-s1XfmmDjc9 .article-counter-right {
   color: #cccccc;
@@ -1159,10 +1162,10 @@ blockquote {
   padding-left: 2rem;
 }
 .cid-s1XfmRoisc .mbr-text-right {
-  color: #202020;
+  color: #606060;
 }
 .cid-s1XfmRoisc .mbr-text-left {
-  color: #202020;
+  color: #606060;
 }
 .cid-s1XfmRoisc .article-counter-right {
   color: #cccccc;
@@ -1187,10 +1190,10 @@ blockquote {
   padding-left: 2rem;
 }
 .cid-s1XfnmLgPB .mbr-text-right {
-  color: #202020;
+  color: #606060;
 }
 .cid-s1XfnmLgPB .mbr-text-left {
-  color: #202020;
+  color: #606060;
 }
 .cid-s1XfnmLgPB .article-counter-right {
   color: #cccccc;
@@ -1215,10 +1218,10 @@ blockquote {
   padding-left: 2rem;
 }
 .cid-s1XfyYHcaO .mbr-text-right {
-  color: #202020;
+  color: #606060;
 }
 .cid-s1XfyYHcaO .mbr-text-left {
-  color: #202020;
+  color: #606060;
 }
 .cid-s1XfyYHcaO .article-counter-right {
   color: #cccccc;
