@@ -1062,7 +1062,7 @@ blockquote {
 }
 .cid-s1Xb2qUwkB {
   padding-top: 3rem;
-  padding-bottom: 3rem;
+  padding-bottom: 2rem;
   background-color: #ffffff;
 }
 .cid-s1Xb2qUwkB h1 {
@@ -1103,7 +1103,16 @@ blockquote {
   padding-left: 2rem;
 }
 .cid-s1XdwJI9vB .mbr-text-right {
-  color: #767676;
+  color: #202020;
+}
+.cid-s1XdwJI9vB .article-counter-left {
+  color: #cccccc;
+}
+.cid-s1XdwJI9vB .article-counter-right {
+  color: #cccccc;
+}
+.cid-s1XdwJI9vB H2 {
+  color: #482be7;
 }
 .cid-s1XfmmDjc9 {
   padding-top: 0px;
@@ -1122,7 +1131,16 @@ blockquote {
   padding-left: 2rem;
 }
 .cid-s1XfmmDjc9 .mbr-text-right {
-  color: #767676;
+  color: #202020;
+}
+.cid-s1XfmmDjc9 .mbr-text-left {
+  color: #202020;
+}
+.cid-s1XfmmDjc9 .article-counter-right {
+  color: #cccccc;
+}
+.cid-s1XfmmDjc9 .article-counter-left {
+  color: #cccccc;
 }
 .cid-s1XfmRoisc {
   padding-top: 0px;
@@ -1141,7 +1159,16 @@ blockquote {
   padding-left: 2rem;
 }
 .cid-s1XfmRoisc .mbr-text-right {
-  color: #767676;
+  color: #202020;
+}
+.cid-s1XfmRoisc .mbr-text-left {
+  color: #202020;
+}
+.cid-s1XfmRoisc .article-counter-right {
+  color: #cccccc;
+}
+.cid-s1XfmRoisc .article-counter-left {
+  color: #cccccc;
 }
 .cid-s1XfnmLgPB {
   padding-top: 0px;
@@ -1160,7 +1187,16 @@ blockquote {
   padding-left: 2rem;
 }
 .cid-s1XfnmLgPB .mbr-text-right {
-  color: #767676;
+  color: #202020;
+}
+.cid-s1XfnmLgPB .mbr-text-left {
+  color: #202020;
+}
+.cid-s1XfnmLgPB .article-counter-right {
+  color: #cccccc;
+}
+.cid-s1XfnmLgPB .article-counter-left {
+  color: #cccccc;
 }
 .cid-s1XfyYHcaO {
   padding-top: 0px;
@@ -1179,7 +1215,16 @@ blockquote {
   padding-left: 2rem;
 }
 .cid-s1XfyYHcaO .mbr-text-right {
-  color: #767676;
+  color: #202020;
+}
+.cid-s1XfyYHcaO .mbr-text-left {
+  color: #202020;
+}
+.cid-s1XfyYHcaO .article-counter-right {
+  color: #cccccc;
+}
+.cid-s1XfyYHcaO .article-counter-left {
+  color: #cccccc;
 }
 .cid-s1Xgu9nelT {
   padding-top: 0rem;
@@ -1193,7 +1238,7 @@ blockquote {
   opacity: .7;
   margin: 35px 0 0;
   font-weight: 500;
-  color: #87d37c;
+  color: #00b16a;
 }
 @media (max-width: 767px) {
   .cid-s1Xgu9nelT .dragArea {
