@@ -780,12 +780,12 @@ blockquote {
 .cid-s1WRuCwEwB .navbar {
   min-height: 77px;
   transition: all .3s;
-  background: #ffffff;
+  background: #971346;
   background: none;
 }
 .cid-s1WRuCwEwB .navbar.opened {
   transition: all .3s;
-  background: #ffffff !important;
+  background: #971346 !important;
 }
 .cid-s1WRuCwEwB .navbar .dropdown-item {
   padding: .235rem 2rem;
@@ -847,7 +847,7 @@ blockquote {
   }
 }
 .cid-s1WRuCwEwB .navbar.navbar-short {
-  background: #ffffff !important;
+  background: #971346 !important;
   min-height: 60px;
 }
 .cid-s1WRuCwEwB .navbar.navbar-short .navbar-logo img {
@@ -888,7 +888,7 @@ blockquote {
   padding: 0.667em 1.667em;
 }
 .cid-s1WRuCwEwB .navbar.navbar-expand-lg .dropdown .dropdown-menu {
-  background: #ffffff;
+  background: #971346;
   z-index: 2;
 }
 .cid-s1WRuCwEwB .navbar.navbar-expand-lg .dropdown .dropdown-menu .dropdown-submenu {
@@ -921,7 +921,7 @@ blockquote {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #232323;
+  background-color: #ffffff;
 }
 .cid-s1WRuCwEwB button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
