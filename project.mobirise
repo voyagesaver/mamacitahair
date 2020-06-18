@@ -72,9 +72,9 @@
     "lazyLoad": false,
     "lazyType": "nothing",
     "robotsSwitcher": false,
-    "sitemapSwitcher": false,
-    "sitemapSwitcherAuto": false,
-    "siteUrl": false,
+    "sitemapSwitcher": true,
+    "sitemapSwitcherAuto": "on",
+    "siteUrl": "https://braidbymamacita.com/",
     "cookiesAlert": false,
     "gdpr": false,
     "pwa-switcher": false,
@@ -86,7 +86,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "Welcome to Braid by Mamacita",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
