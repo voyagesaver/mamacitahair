@@ -1267,6 +1267,41 @@ blockquote {
   font-size: 60px;
   color: #777;
 }
+.cid-seBzl7XM4z {
+  padding-top: 0px;
+  padding-bottom: 75px;
+  background-color: #ffffff;
+}
+.cid-seBzl7XM4z .mbr-arrow {
+  background: #232323 !important;
+  opacity: .7;
+}
+.cid-seBzl7XM4z .mbr-arrow i {
+  color: #ffffff !important;
+}
+.cid-seBzl7XM4z .underline .line {
+  width: 2rem;
+  height: 1px;
+  background: #ffffff;
+  display: inline-block;
+}
+.cid-seBzl7XM4z .animated-element,
+.cid-seBzl7XM4z .typed-cursor {
+  color: #ffffff;
+}
+@media (max-width: 767px) {
+  .cid-seBzl7XM4z .typed-text {
+    text-align: center;
+  }
+}
+.cid-seBzl7XM4z .mbr-section-title {
+  text-align: center;
+}
+.cid-seBzl7XM4z .mbr-text,
+.cid-seBzl7XM4z .typed-text,
+.cid-seBzl7XM4z .mbr-section-btn {
+  text-align: center;
+}
 .cid-s1WWH64niQ {
   padding-top: 0px;
   padding-bottom: 0px;
@@ -1364,4 +1399,16 @@ blockquote {
 }
 .cid-s1WWH64niQ .hours-column {
   text-align: center;
+}
+#custom-html-17 {
+  /* Type valid CSS here */
+}
+#custom-html-17 div {
+  padding: 80px 0;
+  color: #777;
+  text-align: center;
+}
+#custom-html-17 p {
+  font-size: 60px;
+  color: #777;
 }
