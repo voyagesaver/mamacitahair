@@ -1275,6 +1275,7 @@ blockquote {
 .cid-seBAngjjMY .mbr-section-title {
   margin-top: 30px;
   margin-bottom: 0;
+  color: #202020;
 }
 .cid-seBAngjjMY .mbr-text {
   margin-top: 20px;
@@ -1406,6 +1407,44 @@ blockquote {
 .cid-s1WWH64niQ .hours-column {
   text-align: center;
 }
+.cid-seBBHLf34p {
+  padding-top: 0rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+.cid-seBBHLf34p .mbr-section-title {
+  margin-top: 30px;
+  margin-bottom: 0;
+}
+.cid-seBBHLf34p .mbr-text {
+  margin-top: 20px;
+  margin-bottom: 0;
+  color: #919dab;
+  margin-top: 30px;
+}
+.cid-seBBHLf34p .mbr-section-btn {
+  margin-top: 45px;
+}
+.cid-seBBHLf34p .mbr-section-btn .btn {
+  height: 60px;
+  font-weight: 500;
+}
+.cid-seBBHLf34p img {
+  width: 100px;
+  height: 100px;
+  border-radius: 30px;
+}
+@media (max-width: 767px) {
+  .cid-seBBHLf34p .mbr-section-btn {
+    margin-top: 30px;
+  }
+  .cid-seBBHLf34p .mbr-section-btn .btn {
+    height: 50px;
+  }
+  .cid-seBBHLf34p .mbr-text {
+    margin-top: 10px;
+  }
+}
 #custom-html-17 {
   /* Type valid CSS here */
 }
@@ -1417,4 +1456,42 @@ blockquote {
 #custom-html-17 p {
   font-size: 60px;
   color: #777;
+}
+.cid-seBC2L1khs {
+  padding-top: 0rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+.cid-seBC2L1khs .mbr-section-title {
+  margin-top: 30px;
+  margin-bottom: 0;
+}
+.cid-seBC2L1khs .mbr-text {
+  margin-top: 20px;
+  margin-bottom: 0;
+  color: #919dab;
+  margin-top: 30px;
+}
+.cid-seBC2L1khs .mbr-section-btn {
+  margin-top: 45px;
+}
+.cid-seBC2L1khs .mbr-section-btn .btn {
+  height: 60px;
+  font-weight: 500;
+}
+.cid-seBC2L1khs img {
+  width: 100px;
+  height: 100px;
+  border-radius: 30px;
+}
+@media (max-width: 767px) {
+  .cid-seBC2L1khs .mbr-section-btn {
+    margin-top: 30px;
+  }
+  .cid-seBC2L1khs .mbr-section-btn .btn {
+    height: 50px;
+  }
+  .cid-seBC2L1khs .mbr-text {
+    margin-top: 10px;
+  }
 }
