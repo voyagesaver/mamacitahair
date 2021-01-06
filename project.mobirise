@@ -81,7 +81,7 @@
     "uniqCompNum": 52,
     "versionPublish": "5.2.1",
     "screenshot": "screenshot.png",
-    "publishChangesOnly": false
+    "publishChangesOnly": true
   },
   "pages": {
     "index.html": {
