@@ -1072,7 +1072,7 @@ blockquote {
   opacity: .7;
   margin: 35px 0 0;
   font-weight: 500;
-  color: #ea3223;
+  color: #f5ab35;
 }
 @media (max-width: 767px) {
   .cid-s1Xb2qUwkB .dragArea {
@@ -1085,6 +1085,45 @@ blockquote {
 }
 .cid-s1Xb2qUwkB .mbr-section-title {
   color: #606060;
+}
+.cid-sJBZvW9hjI {
+  padding-top: 0px;
+  padding-bottom: 45px;
+  background-color: #ffffff;
+}
+.cid-sJBZvW9hjI .mbr-text {
+  position: relative;
+  color: #ea3223;
+}
+.cid-sJBZvW9hjI .mbr-text:before {
+  color: #ffffff;
+  content: "\201C";
+  font-size: 3em;
+  line-height: 0.1em;
+  margin-right: 0.2em;
+  vertical-align: -0.4em;
+  position: absolute;
+  top: 10px;
+  left: -2rem;
+}
+.cid-sJBZvW9hjI img {
+  object-fit: contain;
+}
+.cid-sJBZvW9hjI .mbr-text:after {
+  color: #ffffff;
+  content: "\201D";
+  font-size: 3em;
+  line-height: 0.1em;
+  vertical-align: -0.45em;
+  position: absolute;
+  bottom: 10px;
+  right: -2rem;
+}
+@media (max-width: 767px) {
+  .cid-sJBZvW9hjI .mbr-text:after,
+  .cid-sJBZvW9hjI .mbr-text:before {
+    display: none;
+  }
 }
 .cid-s1XdwJI9vB {
   padding-top: 0px;
